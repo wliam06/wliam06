@@ -14,7 +14,7 @@
 </a> 
 
 <a href="https://github.com/wliam06/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliam06&layout=compact&theme=dracula&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliam06&layout=compact&theme=dracula&hide_border=false&count_private=true" />
 </a>
 
 <!--
