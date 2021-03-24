@@ -1,5 +1,5 @@
 ### Hi there, Let's Connect 👋
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/william-gho-b90619b7)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/william-gho-b90619b7)
 [![Instagram URL](https://img.shields.io/static/v1?color=purple&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/wliam_)
 [![Medium URL](https://img.shields.io/static/v1?color=green&label=medium&logo=Medium&logoColor=white&style=for-the-badge&message=Connect)](https://williamgho.medium.com/)
 
@@ -14,7 +14,7 @@
 </a> 
 
 <a href="https://github.com/wliam06/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wliam06&count_private=true&layout=compact&theme=dracula&hide_border=false&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliam06&count_private=true&layout=compact&theme=dracula&hide_border=false&langs_count=10" />
 </a>
 
 <!--
