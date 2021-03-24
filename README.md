@@ -5,9 +5,9 @@
 
 
 ## About me
-- Currently work as iOS engineer.
+- Currently work as an iOS engineer.
 - Sometimes writing at Medium.
-- Exploring about technology.
+- Never stop learning about technology.
 
 <a href="https://github.com/wliam06/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wliam06&count_private=true&show_icons=true&theme=dracula&hide_border=false" />
