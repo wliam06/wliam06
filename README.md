@@ -5,7 +5,7 @@
 
 
 ## About me
-- Currently work as an iOS engineer.
+- Currently work as an Software Engineer in iOS and Flutter.
 - Sometimes writing at Medium.
 - Create a new world with Technology.
 
