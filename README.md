@@ -5,9 +5,9 @@
 
 
 ## About me
-- Currently work as an Software Engineer in iOS and Flutter.
+- Currently work as an Software Engineer in iOS.
 - Sometimes writing at Medium.
-- Create a new world with Technology.
+- Support a new world with Technology.
 
 
 <a href="https://github.com/wliam06/">
