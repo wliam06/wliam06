@@ -11,11 +11,11 @@
 
 
 <a href="https://github.com/wliam06/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wliam06&count_private=true&show_icons=true&theme=dracula&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wliamgho&count_private=true&show_icons=true&theme=dracula&hide_border=false" />
 </a> 
 
 <a href="https://github.com/wliam06/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliam06&count_private=true&layout=compact&theme=dracula&hide_border=false&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliamgho&count_private=true&layout=compact&theme=dracula&hide_border=false&langs_count=10" />
 </a>
 
 <!--
