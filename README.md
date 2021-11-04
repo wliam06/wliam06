@@ -2,6 +2,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/william-gho-b90619b7)
 [![Instagram URL](https://img.shields.io/static/v1?color=purple&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/wliam_)
 [![Medium URL](https://img.shields.io/static/v1?color=green&label=medium&logo=Medium&logoColor=white&style=for-the-badge&message=Connect)](https://williamgho.medium.com/)
+[![Resume URL](https://img.shields.io/static/v1?&color=orange&label=Resume&style=for-the-badge&message=Visit)](https://wliamgho.xyz/)
 
 
 ## About me
