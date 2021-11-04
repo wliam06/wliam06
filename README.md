@@ -8,7 +8,7 @@
 ## About me
 - Currently work as an Software Engineer in iOS.
 - Sometimes writing at Medium.
-- Support a new world with Technology.
+- Support a new world become digitalization.
 
 
 <a href="https://github.com/wliam06/">
