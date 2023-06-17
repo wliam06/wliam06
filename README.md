@@ -6,10 +6,13 @@
 
 
 ## About me
-- Currently work as an Software Engineer in iOS.
-- Sometimes writing at Medium.
-- Support a new world become digitalization.
-
+- Currently working as an Engineering Lead at Ajaib.
+- ✍️ at Medium.
+- ☕️ addict.
+- 🏋️‍♀️ to release stress.
+- 🫵 never surrender.
+- 💬 Ask me about startup technology and psychology.
+- 📫 reach me: will.liiam06@gmail.com
 
 <a href="https://github.com/wliam06/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wliamgho&count_private=true&show_icons=true&theme=dracula&hide_border=false" />
