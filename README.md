@@ -11,7 +11,7 @@
 - ☕️ addict.
 - 🏋️‍♀️ to release stress.
 - 🫵 never surrender.
-- 💬 Ask me about startup technology and psychology.
+- 💬 curious about startup technology and psychology terms.
 - 📫 reach me: will.liiam06@gmail.com
 
 <a href="https://github.com/wliam06/">
